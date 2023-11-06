@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 <!--
 **dev986/dev986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
